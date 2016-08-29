@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>LD36</name>
+			<type>2</type>
+			<location>/Users/justin/Documents/usb/LD36/LD36</location>
+		</link>
+	</linkedResources>
 </projectDescription>
